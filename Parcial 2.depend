@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1714762869 source:d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	"ClienteConvencional.h"
+	"ClienteVIP.h"
+	"Producto.h"
+	"Servicio.h"
+	"Venta.h"
+	"Item.h"
+
+1714717985 d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\clienteconvencional.h
+	"Cliente.h"
+
+1714716517 d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\cliente.h
+	<string>
+	"tipoCliente.h"
+
+1714716517 d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\tipocliente.h
+
+1714718008 d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\clientevip.h
+	"Cliente.h"
+	"TipoTarjeta.h"
+
+1714706081 d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\tipotarjeta.h
+
+1714716750 d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\producto.h
+	"Item.h"
+
+1714708918 d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\item.h
+	<string>
+	"tipoItem.h"
+
+1714716545 d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\tipoitem.h
+
+1714716768 d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\servicio.h
+	"Item.h"
+
+1714717909 d:\universidad uso\ciclo iii\programación ii\parcial 2 grupo 01 - fredy alexander campos figueroa\parcial 2\venta.h
+	"Cliente.h"
+	"Item.h"
+

@@ -1,0 +1,10 @@
+#ifndef TIPOCLIENTE_H_INCLUDED
+#define TIPOCLIENTE_H_INCLUDED
+
+enum class tipoCliente{
+    ClIENTE_CONVENCIONAL = 1,
+    CLIENTE_VIP = 2
+};
+
+
+#endif // TIPOCLIENTE_H_INCLUDED
